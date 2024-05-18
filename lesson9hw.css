@@ -1,0 +1,13 @@
+#timer{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    font-size: 30px;
+    text-align: center;
+
+ }#box {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin-bottom: 10px;
+  }
